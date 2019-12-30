@@ -1,0 +1,10 @@
+Testando o uso do git localmente.
+
+
+
+Testando uma nova linha.
+É legal usar o VI! To curtindo heheheh
+
+Testando modificacao
+
+
